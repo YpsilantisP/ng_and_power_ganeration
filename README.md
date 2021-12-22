@@ -1,4 +1,4 @@
-# gn_and_power_genration
+# ng_and_power_genration
 
 The aim of this project is to create an end to end analysis for the energy sector that will focus on;
 1. Fetching, transforming, cleaning, saving the data locally and allowing the user to updated them in the future.
