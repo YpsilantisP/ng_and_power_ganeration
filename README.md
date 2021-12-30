@@ -86,7 +86,6 @@ been one of the most valuable tools for getting accurate information for the sto
 
 <br>
 <br>
-<br>
 
 ## System Design
 
@@ -96,6 +95,9 @@ been one of the most valuable tools for getting accurate information for the sto
 * The first section (Program Code) includes all the code used for the analysis.<br>
 * The second section (Project Outcome) includes the interpretation of the results.<br>
 * The third section (Conclusions) summarises the outcome and future work.<br>
+
+<br>
+<br>
 
 ## To install 
 * Install project requirements
