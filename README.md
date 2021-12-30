@@ -13,6 +13,7 @@
         3. Storing the datasets locally to be reusable, avoiding fetching repeatedly from the APIs.
         4. Enable the user to update the local dataset -- prompting them to use same script in the future.
 <br>
+
 2. Using statistical tools to understand the datasets.
     * <font color='salmon'>OBJECTIVE 2 - Data Visualisation (including descriptive statistics):</font>
         1. Analysing their properties using min, max, mean etc.  
@@ -20,6 +21,7 @@
         3. Finding correlations between the fuels.
         4. Finding their trends throughout seasonality.
 <br>
+
 3. Predicting future moves of gas commodity stock using the first dataset (independent variable) machine learning tools.
     * <font color='salmon'>OBJECTIVE 3 - ML pipeline (Predicting gas movements):</font>
         1. Creating graphs for gas stock prices dataset to gain information and understand it.
